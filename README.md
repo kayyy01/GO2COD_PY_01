@@ -18,5 +18,5 @@ The game continues until the player guesses the correct number, and the total nu
 1. Clone the repository to your local machine:
 
    '''bash
-   git clone https://github.com/username/repository-name.git
-   cd repository-name
+   git clone https://github.com/username/GO2COD_PY_01.git
+   cd GO2COD_PY_01
